@@ -13,7 +13,7 @@ Program outputs changes
 
 -------------------------
 Functions:
-/n Decodes audio
+Decodes audio
 Connect Nodes
 Merge & Mix the Nodes
 Limit audio levels
